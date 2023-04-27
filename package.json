@@ -1,0 +1,18 @@
+{
+  "name": "node_ej_sec9",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "moongose": "^1.0.0"
+  }
+}
